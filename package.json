@@ -18,9 +18,13 @@
     "typescript": "5.6.2"
   },
   "dependencies": {
+    "-": "0.0.1",
+    "@prisma/client": "5.20.0",
     "api-solid": "file:",
+    "D": "1.0.0",
     "dotenv": "16.4.5",
     "fastify": "^5.0.0",
+    "prisma": "5.20.0",
     "zod": "3.23.8"
   }
 }
